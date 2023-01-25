@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Marinara",
+        "ingredients": [
+            "San Marzano tomato sauce",
+            "garlic",
+            "oregano",
+            "olive oil"
+        ],
+        "price": 3200,
+        "allergens": [1, 2]
+    },
+    {
+        "id": 2,
+        "name": "Margheritta",
+        "ingredients": ["rosii", "branza", "oregano", "olive oil"],
+        "price": 3200,
+        "allergens": [1]
+    }
+]
